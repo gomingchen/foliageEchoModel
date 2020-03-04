@@ -8,6 +8,6 @@ Run Sim_leaf_scattering.m to start.
 
 # Citation
 [1] Ming C, Gupta AK, Lu R, Zhu H and Mueller R (2017) A computational model for biosonar echoes
-from foliage. PLoS ONE 12(8): e0182824. [(Open article)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5560571/)
+from foliage. *PLoS ONE* 12(8): e0182824. [(Open article)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5560571/)
 
 
